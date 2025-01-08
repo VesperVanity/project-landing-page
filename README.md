@@ -6,3 +6,4 @@ https://www.pexels.com/photo/man-in-white-dress-shirt-holding-white-ceramic-plat
 https://www.pexels.com/photo/man-holding-bible-1202727/
 https://www.pexels.com/photo/a-bearded-man-praying-5206040/
 https://www.pexels.com/photo/a-woman-hugging-a-bible-5199813/
+https://www.pexels.com/photo/crucifix-illustration-208216/
