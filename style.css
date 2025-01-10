@@ -90,6 +90,47 @@ a
 
 .info-pic
 {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgba(223, 142, 252, 0.712);
+    padding: 12px 12px;
+}
+
+.info
+{
+    background-color: rgb(255, 255, 255);
+}
+
+.info-header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 96px;
+    padding-bottom: 64px;
+    font-size: 42px;
+}
+
+.info-picture-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
+.info-description-container
+{
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 68px;
+}
+
+.info-text
+{
+    width: 200px;
+    height: auto;
 }
