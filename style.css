@@ -19,7 +19,7 @@ a
     width: 200px;
     height: 200px;
     justify-content: left;
-    background-color: rgb(216, 113, 254);
+    background-color: rgba(221, 130, 254, 0.872);
     border-radius: 20px;
 }
 
@@ -43,6 +43,7 @@ a
     justify-content: center;
     align-items: center;
     background-color: rgba(223, 142, 252, 0.712);
+    padding-bottom: 32px;
 }
 
 .hero-container
@@ -137,4 +138,29 @@ a
     height: auto;
     font-size: 20px;
     color: rgb(46, 46, 46);
+}
+
+.quote-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(227, 227, 227);
+    padding: 128px 0;
+}
+
+.quote
+{
+    width: 1000px;
+    font-size: 36px;
+    font-style: italic;
+    color: rgb(46, 46, 46);
+}
+
+.quote-name
+{
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(18, 18, 18);
 }
