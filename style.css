@@ -58,7 +58,14 @@ a
 .hero-header
 {
     font-size: 48px;
-    color: rgb(46, 46, 46);
+    color: rgb(40, 40, 40);
+}
+
+.hero-slogan
+{
+    font-size: 32px;
+    color: rgb(55, 55, 55);
+    margin-bottom: 6px;
 }
 
 .hero-text
@@ -163,4 +170,18 @@ a
     font-size: 28px;
     font-weight: 600;
     color: rgb(18, 18, 18);
+}
+
+.action-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 24px;
+    background-color: rgba(223, 142, 252, 0.836);
+}
+
+.action-text
+{
+    
 }
