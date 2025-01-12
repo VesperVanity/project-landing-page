@@ -132,7 +132,7 @@ a
 
 .info-description-container
 {
-    margin-top: 32px;
+    margin-top: 24px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -204,7 +204,7 @@ a
 .action-text
 {
     font-size: 22px;
-    color: rgb(56, 56, 56);;
+    color: rgb(56, 56, 56);
 }
 
 .action-button-container
@@ -222,4 +222,20 @@ a
     background-color: rgb(223, 142, 252);
     font-size: 22px;
     border-radius: 20px;
+}
+
+.footer-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 24px;
+    margin-top: 98px;
+    background-color: rgba(108, 0, 148, 0.879);
+}
+
+.footer-copyright
+{
+    font-size: 22px;
+    color: rgb(255, 255, 255)
 }
